@@ -1,0 +1,4 @@
+test12@gmail.com,Banner,Create a banner according to client requirements
+zunnoor46@gmail.com,Banner,Banner for xyz company fror integartion
+zunnoor46@gmail.com,Header Changes,Their is minor change In which client want to change the logo
+zunnoor46@gmail.com,Footer Link,Client want to add link of their social media in footer
